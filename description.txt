@@ -1,0 +1,16 @@
+I use the html,css,bootstarp,js.
+css is use to give the style of the website.
+bootstarp is make the responsive website.
+js is used to some ajax programming.
+In my website I put the basic like:
+About the resturant
+Menu of items
+Special items of resturant
+Events of resturant
+Chefs information
+Gallary of resturant
+Contact information
+Book Table facility
+Timing of resturant
+The restaurant’s social media accounts
+that's all are cover in my website.
